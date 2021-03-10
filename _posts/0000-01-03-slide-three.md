@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Hyuung's slide!"
 ---
-There's nothing to see here yet.
+This is going to be a great day!
 Use the left arrow to go back!
