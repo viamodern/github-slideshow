@@ -1,7 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our third slide!"
+title: "Welcome to Hyuung's slide!"
 ---
-There's nothing to see here yet.
-Use the right arrow to go forward.
+This is going to be a great day! :tada:
 Use the left arrow to go back!
